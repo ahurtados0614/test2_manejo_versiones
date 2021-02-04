@@ -15,16 +15,5 @@ if(!empty($ruta[2])){
 }
 require_once("Librerias/Autoload.php");
 require_once("Librerias/Load.php");
-
-$html =<<<HTML
-<html>
-    <head>
-    </head>
-    <body>
-    <h1>Hola</h1>
-    </body>
-</html>
-HTML;
-$html ="!hláñ'R</> 'and 1=1";
-echo strip_tags($html);
+ 
 ?>
